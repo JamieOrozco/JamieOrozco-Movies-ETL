@@ -12,8 +12,8 @@ Amazing Prime loves the dataset and wants to keep it updated on a daily basis. T
 ## Results: 
 #### Write ETL Function to Read Three Data Files:
 
-<i<img width="362" alt="Wiki" src="https://user-images.githubusercontent.com/95591222/153272499-6e7914fe-c372-4eb8-84db-a82384346e72.png">
-mg width="338" alt="3 Functions" src="https://user-images.githubusercontent.com/95591222/153271485-ab4692d4-c367-4387-9add-cbed5483705b.png">
+<img width="362" alt="Wiki" src="https://user-images.githubusercontent.com/95591222/153272499-6e7914fe-c372-4eb8-84db-a82384346e72.png">
+<img width="338" alt="3 Functions" src="https://user-images.githubusercontent.com/95591222/153271485-ab4692d4-c367-4387-9add-cbed5483705b.png">
 <img width="314" alt="Kaggle" src="https://user-images.githubusercontent.com/95591222/153272506-979348a8-1ae4-4abe-b1dc-81413e9325db.png">
 <img width="144" alt="rate" src="https://user-images.githubusercontent.com/95591222/153272512-6b15e2a0-6af7-4011-abe7-d787a4c3c1d7.png">
 
